@@ -6,9 +6,9 @@ Un launcher pour jouer à Wii Party et à ses mods (Mode Hiver, Mode Duo, Le sol
 
 Prends l’installateur de ton système dans les [Releases](https://github.com/prstance/wp-launcher/releases/latest) :
 
-- **Windows** : `PartyLauncher_x.y.z_x64-setup.exe`
-- **macOS** (Apple Silicon) : `PartyLauncher_x.y.z_aarch64.dmg`
-- **Linux** : `PartyLauncher_x.y.z_amd64.AppImage`
+- **Windows** : le fichier qui finit par `_x64-setup.exe`
+- **macOS** (Apple Silicon) : le fichier qui finit par `_aarch64.dmg`
+- **Linux** : le fichier qui finit par `_amd64.AppImage` (Ubuntu 24.04 ou plus récent, ou équivalent)
 
 Ensuite, le launcher se met à jour tout seul depuis *Paramètres › À propos*.
 
